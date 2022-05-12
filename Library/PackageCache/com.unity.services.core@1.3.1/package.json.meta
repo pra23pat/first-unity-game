@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 fileFormatVersion: 2
 guid: 182c5bcc97fc21747a9ca5e01da1ed3f
 PackageManifestImporter:
@@ -5,3 +6,12 @@ PackageManifestImporter:
   userData: 
   assetBundleName: 
   assetBundleVariant: 
+=======
+fileFormatVersion: 2
+guid: 182c5bcc97fc21747a9ca5e01da1ed3f
+PackageManifestImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+>>>>>>> d6a5058d (added player animation with movement)

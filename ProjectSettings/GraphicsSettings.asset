@@ -43,6 +43,7 @@ GraphicsSettings:
   m_TransparencySortAxis: {x: 0, y: 0, z: 1}
   m_DefaultRenderingPath: 1
   m_DefaultMobileRenderingPath: 1
+<<<<<<< HEAD
   m_TierSettings:
   - serializedVersion: 5
     m_BuildTarget: 4
@@ -146,6 +147,9 @@ GraphicsSettings:
       enableLPPV: 0
       useDitherMaskForAlphaBlendedShadows: 0
     m_Automatic: 0
+=======
+  m_TierSettings: []
+>>>>>>> d6a5058d (added player animation with movement)
   m_LightmapStripping: 0
   m_FogStripping: 0
   m_InstancingStripping: 0

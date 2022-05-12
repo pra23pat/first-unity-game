@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 {
     "ErrorExceptions":
     [
@@ -7,3 +8,14 @@
         }
     ]
 }
+=======
+{
+    "ErrorExceptions":
+    [
+        {
+             "ValidationTest": "API Validation",
+             "PackageVersion": "1.7.6"
+        }
+    ]
+}
+>>>>>>> d6a5058d (added player animation with movement)
