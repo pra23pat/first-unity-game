@@ -2,8 +2,13 @@
 
 ## [3.0.13] - 2022-03-17
 
+<<<<<<< HEAD
  - fix RIDER-69927 "Test not run" status is shown for the test suite when running unit tests for Unity project
  - fix RIDER-74676 Unity plugin "JetBrainseRider Editor" completely breaks <= 2019.1.9
+=======
+ - fix RIDER-69927 "Test not run" status is shown for the test suite when running unit tests for Unity project
+ - fix RIDER-74676 Unity plugin "JetBrainseRider Editor" completely breaks <= 2019.1.9
+>>>>>>> d6a5058d (added player animation with movement)
  - fix RIDER-71503 Unity Hang on "Domain Unload", caused by dispose of FileSystemWatcher
 
 

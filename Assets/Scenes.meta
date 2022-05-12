@@ -1,5 +1,9 @@
 fileFormatVersion: 2
+<<<<<<< HEAD
 guid: 30340b97d11d06a45ab35a95bc963c9a
+=======
+guid: 6ea315d0fd7389c41b19996891e99ae3
+>>>>>>> d6a5058d (added player animation with movement)
 folderAsset: yes
 DefaultImporter:
   externalObjects: {}
