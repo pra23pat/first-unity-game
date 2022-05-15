@@ -1,33 +1,162 @@
 m_ProjectFiles:
   m_ManifestFileStatus:
-    m_FilePath: /Users/prateek/Desktop/Unity/first-unity-game/Packages/manifest.json
+    m_FilePath: C:/Unity-Games/DemoGame/Packages/manifest.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637875431630000000
-    m_Hash: 3520052721
+      ticks: 637881981763102516
+    m_Hash: 469651248
   m_LockFileStatus:
-    m_FilePath: /Users/prateek/Desktop/Unity/first-unity-game/Packages/packages-lock.json
+    m_FilePath: C:/Unity-Games/DemoGame/Packages/packages-lock.json
     m_PathExists: 1
     m_ContentTrackingEnabled: 1
     m_ModificationDate:
       serializedVersion: 2
-      ticks: 637875431680000000
-    m_Hash: 3822567067
+      ticks: 637881981763132512
+    m_Hash: 3507639265
 m_EmbeddedPackageManifests:
   m_ManifestsStatus: {}
 m_LocalPackages:
   m_LocalFileStatus: []
-m_ProjectPath: /Users/prateek/Desktop/Unity/first-unity-game/Packages
+m_ProjectPath: C:/Unity-Games/DemoGame/Packages
 m_EditorVersion: 2021.3.2f1 (d6360bedb9a0)
 m_ResolvedPackages:
+- packageId: com.unity.cinemachine@2.8.4
+  testable: 0
+  isDirectDependency: 1
+  version: 2.8.4
+  source: 1
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.cinemachine@2.8.4
+  assetPath: Packages/com.unity.cinemachine
+  name: com.unity.cinemachine
+  displayName: Cinemachine
+  author:
+    name: 
+    email: 
+    url: 
+  category: cinematography
+  type: 
+  description: "Smart camera tools for passionate creators. \n\nNew starting from
+    2.7.1: Are you looking for the Cinemachine menu? It has moved to the GameObject
+    menu.\n\nIMPORTANT NOTE: If you are upgrading from the legacy Asset Store version
+    of Cinemachine, delete the Cinemachine asset from your project BEFORE installing
+    this version from the Package Manager."
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 2.1.11-beta.1
+    - 2.1.12
+    - 2.1.13
+    - 2.2.0
+    - 2.2.7
+    - 2.2.8
+    - 2.2.9
+    - 2.2.10-preview.3
+    - 2.2.10-preview.4
+    - 2.3.1
+    - 2.3.3
+    - 2.3.4
+    - 2.3.5-preview.3
+    - 2.4.0-preview.3
+    - 2.4.0-preview.4
+    - 2.4.0-preview.6
+    - 2.4.0-preview.7
+    - 2.4.0-preview.8
+    - 2.4.0-preview.9
+    - 2.4.0-preview.10
+    - 2.4.0
+    - 2.5.0
+    - 2.6.0-preview.2
+    - 2.6.0-preview.3
+    - 2.6.0-preview.5
+    - 2.6.0-preview.8
+    - 2.6.0
+    - 2.6.1-preview.6
+    - 2.6.1
+    - 2.6.2-preview.1
+    - 2.6.2
+    - 2.6.3-preview.2
+    - 2.6.3
+    - 2.6.4
+    - 2.6.5
+    - 2.6.9
+    - 2.6.10
+    - 2.6.11
+    - 2.7.1
+    - 2.7.2
+    - 2.7.3
+    - 2.7.4
+    - 2.7.5
+    - 2.7.8
+    - 2.7.9
+    - 2.8.0-exp.1
+    - 2.8.0-exp.2
+    - 2.8.0-pre.1
+    - 2.8.0
+    - 2.8.1
+    - 2.8.2
+    - 2.8.3
+    - 2.8.4
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    compatible:
+    - 2.8.4
+    - 2.9.0-pre.1
+    - 2.9.0-pre.6
+    verified: 2.8.4
+  dependencies: []
+  resolvedDependencies: []
+  keywords:
+  - camera
+  - follow
+  - rig
+  - fps
+  - cinematography
+  - aim
+  - orbit
+  - cutscene
+  - cinematic
+  - collision
+  - freelook
+  - cinemachine
+  - compose
+  - composition
+  - dolly
+  - track
+  - clearshot
+  - noise
+  - framing
+  - handheld
+  - lens
+  - impulse
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637755930770000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.com/Unity-Technologies/com.unity.cinemachine.git
+    revision: 15a386e047f93d18479f6ae075bd3dcc985d3c34
+    path: 
+  unityLifecycle:
+    version: 2.8.4
+    nextVersion: 
 - packageId: com.unity.collab-proxy@1.15.16
   testable: 0
   isDirectDependency: 1
   version: 1.15.16
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.collab-proxy@1.15.16
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.collab-proxy@1.15.16
   assetPath: Packages/com.unity.collab-proxy
   name: com.unity.collab-proxy
   displayName: Version Control
@@ -160,55 +289,71 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.15.16
     nextVersion: 
-- packageId: com.unity.feature.mobile@1.0.0
+- packageId: com.unity.feature.development@1.0.1
   testable: 0
   isDirectDependency: 1
-  version: 1.0.0
+  version: 1.0.1
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.feature.mobile@1.0.0
-  assetPath: Packages/com.unity.feature.mobile
-  name: com.unity.feature.mobile
-  displayName: Mobile
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.feature.development@1.0.1
+  assetPath: Packages/com.unity.feature.development
+  name: com.unity.feature.development
+  displayName: Engineering
   author:
     name: 
     email: 
     url: 
   category: 
   type: feature
-  description: Optimize your apps for mobile devices and provide a performant experience
-    for your users. Includes utilities for debugging on device and support for notifications.
+  description: "Optimize your development experience in Unity with the Dev Tools
+    feature set. Enable support for multiple integrated development environments
+    (IDE) for editing your Unity code. Get access to development tools to help you
+    test and analyze your project\u2019s performance."
   status: 4
   errors: []
   versions:
     all:
-    - 1.0.0
+    - 1.0.1
     compatible:
-    - 1.0.0
-    verified: 1.0.0
+    - 1.0.1
+    verified: 1.0.1
   dependencies:
-  - name: com.unity.mobile.android-logcat
+  - name: com.unity.ide.visualstudio
     version: default
-  - name: com.unity.adaptiveperformance
+  - name: com.unity.ide.rider
     version: default
-  - name: com.unity.mobile.notifications
+  - name: com.unity.ide.vscode
+    version: default
+  - name: com.unity.editorcoroutines
+    version: default
+  - name: com.unity.performance.profile-analyzer
+    version: default
+  - name: com.unity.test-framework
+    version: default
+  - name: com.unity.testtools.codecoverage
     version: default
   resolvedDependencies:
-  - name: com.unity.mobile.android-logcat
-    version: 1.2.3
-  - name: com.unity.adaptiveperformance
-    version: 3.0.2
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.modules.subsystems
+  - name: com.unity.ide.visualstudio
+    version: 2.0.14
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.profiling.core
-    version: 1.0.2
-  - name: com.unity.mobile.notifications
-    version: 2.0.0
-  - name: com.unity.modules.androidjni
+  - name: com.unity.ide.rider
+    version: 3.0.13
+  - name: com.unity.ide.vscode
+    version: 1.2.5
+  - name: com.unity.editorcoroutines
     version: 1.0.0
+  - name: com.unity.performance.profile-analyzer
+    version: 1.1.1
+  - name: com.unity.testtools.codecoverage
+    version: 1.0.1
+  - name: com.unity.settings-manager
+    version: 1.0.3
   keywords: []
   registry:
     id: main
@@ -228,14 +373,14 @@ m_ResolvedPackages:
     revision: 
     path: 
   unityLifecycle:
-    version: 1.0.0
+    version: 1.0.1
     nextVersion: 
 - packageId: com.unity.ide.rider@3.0.13
   testable: 0
   isDirectDependency: 1
   version: 3.0.13
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.ide.rider@3.0.13
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.ide.rider@3.0.13
   assetPath: Packages/com.unity.ide.rider
   name: com.unity.ide.rider
   displayName: JetBrains Rider Editor
@@ -318,7 +463,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 2.0.14
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.ide.visualstudio@2.0.14
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.ide.visualstudio@2.0.14
   assetPath: Packages/com.unity.ide.visualstudio
   name: com.unity.ide.visualstudio
   displayName: Visual Studio Editor
@@ -395,7 +540,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.2.5
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.ide.vscode@1.2.5
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.ide.vscode@1.2.5
   assetPath: Packages/com.unity.ide.vscode
   name: com.unity.ide.vscode
   displayName: Visual Studio Code Editor
@@ -456,7 +601,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.1.31
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.test-framework@1.1.31
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.test-framework@1.1.31
   assetPath: Packages/com.unity.test-framework
   name: com.unity.test-framework
   displayName: Test Framework
@@ -555,7 +700,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 3.0.6
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.textmeshpro@3.0.6
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.textmeshpro@3.0.6
   assetPath: Packages/com.unity.textmeshpro
   name: com.unity.textmeshpro
   displayName: TextMeshPro
@@ -720,7 +865,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.6.4
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.timeline@1.6.4
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.timeline@1.6.4
   assetPath: Packages/com.unity.timeline
   name: com.unity.timeline
   displayName: Timeline
@@ -864,7 +1009,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.ugui@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.ugui@1.0.0
   assetPath: Packages/com.unity.ugui
   name: com.unity.ugui
   displayName: Unity UI
@@ -926,7 +1071,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.7.6
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.visualscripting@1.7.6
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.visualscripting@1.7.6
   assetPath: Packages/com.unity.visualscripting
   name: com.unity.visualscripting
   displayName: Visual Scripting
@@ -966,11 +1111,13 @@ m_ResolvedPackages:
     - 1.7.5
     - 1.7.6
     - 1.7.7
+    - 1.7.8
     - 1.8.0-pre.1
     compatible:
     - 1.7.6
     - 1.7.7
-    verified: 1.7.7
+    - 1.7.8
+    verified: 1.7.8
   dependencies:
   - name: com.unity.ugui
     version: 1.0.0
@@ -1011,7 +1158,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.ai@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.ai@1.0.0
   assetPath: Packages/com.unity.modules.ai
   name: com.unity.modules.ai
   displayName: AI
@@ -1059,7 +1206,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.androidjni@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.androidjni@1.0.0
   assetPath: Packages/com.unity.modules.androidjni
   name: com.unity.modules.androidjni
   displayName: Android JNI
@@ -1106,7 +1253,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.animation@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.animation@1.0.0
   assetPath: Packages/com.unity.modules.animation
   name: com.unity.modules.animation
   displayName: Animation
@@ -1154,7 +1301,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.assetbundle@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.assetbundle@1.0.0
   assetPath: Packages/com.unity.modules.assetbundle
   name: com.unity.modules.assetbundle
   displayName: Asset Bundle
@@ -1202,7 +1349,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.audio@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.audio@1.0.0
   assetPath: Packages/com.unity.modules.audio
   name: com.unity.modules.audio
   displayName: Audio
@@ -1250,7 +1397,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.cloth@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.cloth@1.0.0
   assetPath: Packages/com.unity.modules.cloth
   name: com.unity.modules.cloth
   displayName: Cloth
@@ -1302,7 +1449,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.director@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.director@1.0.0
   assetPath: Packages/com.unity.modules.director
   name: com.unity.modules.director
   displayName: Director
@@ -1358,7 +1505,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.imageconversion@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.imageconversion@1.0.0
   assetPath: Packages/com.unity.modules.imageconversion
   name: com.unity.modules.imageconversion
   displayName: Image Conversion
@@ -1407,7 +1554,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.imgui@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.imgui@1.0.0
   assetPath: Packages/com.unity.modules.imgui
   name: com.unity.modules.imgui
   displayName: IMGUI
@@ -1455,7 +1602,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.jsonserialize@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.jsonserialize@1.0.0
   assetPath: Packages/com.unity.modules.jsonserialize
   name: com.unity.modules.jsonserialize
   displayName: JSONSerialize
@@ -1503,7 +1650,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.particlesystem@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.particlesystem@1.0.0
   assetPath: Packages/com.unity.modules.particlesystem
   name: com.unity.modules.particlesystem
   displayName: Particle System
@@ -1551,7 +1698,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.physics@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.physics@1.0.0
   assetPath: Packages/com.unity.modules.physics
   name: com.unity.modules.physics
   displayName: Physics
@@ -1599,7 +1746,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.physics2d@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.physics2d@1.0.0
   assetPath: Packages/com.unity.modules.physics2d
   name: com.unity.modules.physics2d
   displayName: Physics 2D
@@ -1647,7 +1794,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.screencapture@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.screencapture@1.0.0
   assetPath: Packages/com.unity.modules.screencapture
   name: com.unity.modules.screencapture
   displayName: Screen Capture
@@ -1699,7 +1846,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.terrain@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.terrain@1.0.0
   assetPath: Packages/com.unity.modules.terrain
   name: com.unity.modules.terrain
   displayName: Terrain
@@ -1747,7 +1894,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.terrainphysics@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.terrainphysics@1.0.0
   assetPath: Packages/com.unity.modules.terrainphysics
   name: com.unity.modules.terrainphysics
   displayName: Terrain Physics
@@ -1803,7 +1950,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.tilemap@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.tilemap@1.0.0
   assetPath: Packages/com.unity.modules.tilemap
   name: com.unity.modules.tilemap
   displayName: Tilemap
@@ -1854,7 +2001,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.ui@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.ui@1.0.0
   assetPath: Packages/com.unity.modules.ui
   name: com.unity.modules.ui
   displayName: UI
@@ -1902,7 +2049,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.uielements@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.uielements@1.0.0
   assetPath: Packages/com.unity.modules.uielements
   name: com.unity.modules.uielements
   displayName: UIElements
@@ -1966,7 +2113,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.umbra@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.umbra@1.0.0
   assetPath: Packages/com.unity.modules.umbra
   name: com.unity.modules.umbra
   displayName: Umbra
@@ -2014,7 +2161,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.unityanalytics@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.unityanalytics@1.0.0
   assetPath: Packages/com.unity.modules.unityanalytics
   name: com.unity.modules.unityanalytics
   displayName: Unity Analytics
@@ -2070,7 +2217,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.unitywebrequest@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.unitywebrequest@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequest
   name: com.unity.modules.unitywebrequest
   displayName: Unity Web Request
@@ -2118,7 +2265,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.unitywebrequestassetbundle@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.unitywebrequestassetbundle@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestassetbundle
   name: com.unity.modules.unitywebrequestassetbundle
   displayName: Unity Web Request Asset Bundle
@@ -2174,7 +2321,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.unitywebrequestaudio@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.unitywebrequestaudio@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestaudio
   name: com.unity.modules.unitywebrequestaudio
   displayName: Unity Web Request Audio
@@ -2230,7 +2377,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.unitywebrequesttexture@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.unitywebrequesttexture@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequesttexture
   name: com.unity.modules.unitywebrequesttexture
   displayName: Unity Web Request Texture
@@ -2286,7 +2433,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.unitywebrequestwww@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.unitywebrequestwww@1.0.0
   assetPath: Packages/com.unity.modules.unitywebrequestwww
   name: com.unity.modules.unitywebrequestwww
   displayName: Unity Web Request WWW
@@ -2358,7 +2505,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.vehicles@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.vehicles@1.0.0
   assetPath: Packages/com.unity.modules.vehicles
   name: com.unity.modules.vehicles
   displayName: Vehicles
@@ -2410,7 +2557,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.video@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.video@1.0.0
   assetPath: Packages/com.unity.modules.video
   name: com.unity.modules.video
   displayName: Video
@@ -2470,7 +2617,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.vr@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.vr@1.0.0
   assetPath: Packages/com.unity.modules.vr
   name: com.unity.modules.vr
   displayName: VR
@@ -2532,7 +2679,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.wind@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.wind@1.0.0
   assetPath: Packages/com.unity.modules.wind
   name: com.unity.modules.wind
   displayName: Wind
@@ -2580,7 +2727,7 @@ m_ResolvedPackages:
   isDirectDependency: 1
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.xr@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.xr@1.0.0
   assetPath: Packages/com.unity.modules.xr
   name: com.unity.modules.xr
   displayName: XR
@@ -2640,7 +2787,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.subsystems@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.subsystems@1.0.0
   assetPath: Packages/com.unity.modules.subsystems
   name: com.unity.modules.subsystems
   displayName: Subsystems
@@ -2692,7 +2839,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.0
   source: 2
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.modules.uielementsnative@1.0.0
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.modules.uielementsnative@1.0.0
   assetPath: Packages/com.unity.modules.uielementsnative
   name: com.unity.modules.uielementsnative
   displayName: UIElements Native
@@ -2751,7 +2898,7 @@ m_ResolvedPackages:
   isDirectDependency: 0
   version: 1.0.6
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.ext.nunit@1.0.6
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.ext.nunit@1.0.6
   assetPath: Packages/com.unity.ext.nunit
   name: com.unity.ext.nunit
   displayName: Custom NUnit
@@ -2804,54 +2951,44 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.0.6
     nextVersion: 
-- packageId: com.unity.mobile.android-logcat@1.2.3
+- packageId: com.unity.editorcoroutines@1.0.0
   testable: 0
   isDirectDependency: 0
-  version: 1.2.3
+  version: 1.0.0
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.mobile.android-logcat@1.2.3
-  assetPath: Packages/com.unity.mobile.android-logcat
-  name: com.unity.mobile.android-logcat
-  displayName: Android Logcat
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.editorcoroutines@1.0.0
+  assetPath: Packages/com.unity.editorcoroutines
+  name: com.unity.editorcoroutines
+  displayName: Editor Coroutines
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: "Android Logcat package adds support for displaying log messages coming
-    from Android devices in Unity Editor. Click the 'View documentation' link above
-    for more information.\n\nThe window can be accessed in Unity Editor via 'Window
-    > Analysis > Android Logcat', or simply by pressing 'Alt+6' on Windows or 'Option+6'
-    on macOS. \n\nMake sure to have Android module loaded and switch to Android build
-    target in 'Build Settings' window if the menu doesn't exist."
+  description: 'The editor coroutines package allows developers to start constructs
+    similar to Unity''s monobehaviour based coroutines within the editor using abitrary
+    objects. '
   status: 4
   errors: []
   versions:
     all:
-    - 0.1.5-preview
-    - 0.2.7-preview
+    - 0.0.1-preview.3
+    - 0.0.1-preview.4
+    - 0.0.1-preview.5
+    - 0.0.2-preview.1
+    - 0.1.0-preview.1
+    - 0.1.0-preview.2
     - 1.0.0
-    - 1.0.1-preview
-    - 1.0.3-preview
-    - 1.1.0
-    - 1.1.1
-    - 1.2.0-preview
-    - 1.2.0
-    - 1.2.1
-    - 1.2.2
-    - 1.2.3
-    - 1.3.2
     compatible:
-    - 1.2.3
-    - 1.3.2
-    verified: 1.2.3
+    - 1.0.0
+    verified: 1.0.0
   dependencies: []
   resolvedDependencies: []
   keywords:
-  - Mobile
-  - Android
-  - Logcat
+  - coroutine
+  - coroutines
+  - editor
   registry:
     id: main
     name: 
@@ -2861,119 +2998,161 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637625737880000000
+  datePublishedTicks: 637232611380000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: git+https://github.com/Unity-Technologies/com.unity.mobile.logcat.git
-    revision: 59c5911d3f6465a7ecf9b03c8ad8ed681b549613
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.editorcoroutines.git
+    revision: f67fc9992bbc7a553b17375de53a8b2db136528e
     path: 
   unityLifecycle:
-    version: 1.2.3
+    version: 1.0.0
     nextVersion: 
-- packageId: com.unity.adaptiveperformance@3.0.2
+- packageId: com.unity.performance.profile-analyzer@1.1.1
   testable: 0
   isDirectDependency: 0
-  version: 3.0.2
+  version: 1.1.1
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.adaptiveperformance@3.0.2
-  assetPath: Packages/com.unity.adaptiveperformance
-  name: com.unity.adaptiveperformance
-  displayName: Adaptive Performance
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.performance.profile-analyzer@1.1.1
+  assetPath: Packages/com.unity.performance.profile-analyzer
+  name: com.unity.performance.profile-analyzer
+  displayName: Profile Analyzer
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: 'The Adaptive Performance package provides an API to get feedback
-    about the thermal and power state of mobile devices, enabling applications to
-    make performance-relevant adaptions at runtime.
-
-
-    For instruction on how
-    to use samples, please read the documentation.
-
-
-    By installing this package,
-    you agree to the terms and conditions of the Unity End User License Agreement
-    found under "View licenses" above.'
+  description: "The Profile Analyzer tool supports the standard Unity Profiler. You
+    can use it to analyze multiple frames and multiple data sets of the CPU data
+    in the Profiler.\n\nMain features: \n\u25AA Multi-frame analysis of a single
+    set of Profiler CPU data \n\u25AA Comparison of two multi-frame profile scans
+    \n\n"
   status: 4
   errors: []
   versions:
     all:
-    - 0.2.0-preview.1
+    - 0.4.0-preview.3
+    - 0.4.0-preview.5
+    - 0.4.0-preview.6
+    - 0.5.0-preview.1
+    - 0.6.0-preview.1
+    - 0.7.0-preview.4
     - 1.0.0
     - 1.0.1
-    - 1.1.0-preview.2
-    - 1.1.0-preview.3
-    - 1.1.0-preview.4
-    - 1.1.0-preview.5
-    - 1.1.0-preview.7
+    - 1.0.2
+    - 1.0.3
+    - 1.1.0-pre.2
     - 1.1.0
-    - 1.1.6
-    - 1.1.9
-    - 1.1.10
-    - 1.2.0
-    - 1.2.2
-    - 2.0.0-preview.1
-    - 2.0.0-preview.2
-    - 2.0.0-preview.4
-    - 2.0.0-preview.7
-    - 2.0.0-preview.8
-    - 2.0.0-preview.9
-    - 2.0.0-preview.10
-    - 2.0.0-preview.11
-    - 2.0.0
-    - 2.0.1
-    - 2.0.2
-    - 2.1.0
-    - 2.1.1
-    - 2.2.1
-    - 2.2.3
-    - 3.0.0-pre.2
-    - 3.0.0
-    - 3.0.2
-    - 4.0.0-pre.1
-    - 4.0.0
+    - 1.1.1
     compatible:
-    - 3.0.2
-    - 4.0.0-pre.1
-    - 4.0.0
-    verified: 3.0.2
+    - 1.1.1
+    verified: 1.1.1
+  dependencies: []
+  resolvedDependencies: []
+  keywords: []
+  registry:
+    id: main
+    name: 
+    url: https://packages.unity.com
+    scopes: []
+    isDefault: 1
+    capabilities: 7
+  hideInEditor: 1
+  isAssetStorePackage: 0
+  datePublishedTicks: 637705021060000000
+  documentationUrl: 
+  hasRepository: 1
+  repository:
+    type: git
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.performance.profile-analyzer.git
+    revision: 6dcda6aee96901e98a4f01b85589054b9274ba74
+    path: 
+  unityLifecycle:
+    version: 1.1.1
+    nextVersion: 
+- packageId: com.unity.testtools.codecoverage@1.0.1
+  testable: 0
+  isDirectDependency: 0
+  version: 1.0.1
+  source: 1
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.testtools.codecoverage@1.0.1
+  assetPath: Packages/com.unity.testtools.codecoverage
+  name: com.unity.testtools.codecoverage
+  displayName: Code Coverage
+  author:
+    name: 
+    email: 
+    url: 
+  category: 
+  type: 
+  description: Use this package to export code coverage data and reports from your
+    automated tests. Additionally, the Code Coverage package offers a Coverage Recording
+    feature which allows capturing coverage data on demand, for manual testing or
+    when there are no automated tests in the project.
+  status: 4
+  errors: []
+  versions:
+    all:
+    - 0.2.0-preview
+    - 0.2.1-preview
+    - 0.2.2-preview
+    - 0.2.3-preview
+    - 0.3.0-preview
+    - 0.3.1-preview
+    - 0.4.0-preview
+    - 0.4.1-preview
+    - 0.4.2-preview
+    - 0.4.3-preview
+    - 1.0.0-pre.1
+    - 1.0.0-pre.2
+    - 1.0.0-pre.3
+    - 1.0.0-pre.4
+    - 1.0.0
+    - 1.0.1
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
+    compatible:
+    - 1.0.1
+    - 1.1.0
+    - 1.1.1
+    - 1.2.0-exp.1
+    - 1.2.0-exp.2
+    - 1.2.0-exp.3
+    - 1.2.0-exp.4
+    - 1.2.0-exp.5
+    - 1.2.0-exp.6
+    - 1.2.0-exp.7
+    verified: 1.0.1
   dependencies:
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.profiling.core
-    version: 1.0.0
+  - name: com.unity.test-framework
+    version: 1.0.16
+  - name: com.unity.settings-manager
+    version: 1.0.1
   resolvedDependencies:
-  - name: com.unity.subsystemregistration
-    version: 1.1.0
-  - name: com.unity.modules.subsystems
+  - name: com.unity.test-framework
+    version: 1.1.31
+  - name: com.unity.ext.nunit
+    version: 1.0.6
+  - name: com.unity.modules.imgui
     version: 1.0.0
   - name: com.unity.modules.jsonserialize
     version: 1.0.0
-  - name: com.unity.profiling.core
-    version: 1.0.2
+  - name: com.unity.settings-manager
+    version: 1.0.3
   keywords:
-  - mobile
-  - adaptive
-  - performance
-  - utility
-  - utilities
-  - core
-  - samsung
-  - ap
-  - provider
-  - subsystem
-  - indexer
-  - scaler
-  - vrr
-  - boost
-  - profiles
-  - cluster
-  - clusterinfo
+  - test
+  - coverage
+  - testing
+  - opencover
   registry:
     id: main
     name: 
@@ -2983,117 +3162,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637794089650000000
+  datePublishedTicks: 637594767130000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.adaptiveperformance.git
-    revision: 971ac86211e0f5b69f8b3a570b0b508887870017
+    url: https://github.cds.internal.unity3d.com/unity/com.unity.testtools.codecoverage.git
+    revision: 2777556fc6ade4006a02ea7febbae1dd3257eb7d
     path: 
   unityLifecycle:
-    version: 3.0.2
-    nextVersion: 
-- packageId: com.unity.mobile.notifications@2.0.0
-  testable: 0
-  isDirectDependency: 0
-  version: 2.0.0
-  source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.mobile.notifications@2.0.0
-  assetPath: Packages/com.unity.mobile.notifications
-  name: com.unity.mobile.notifications
-  displayName: Mobile Notifications
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: 'Mobile Notifications package adds support for scheduling local repeatable
-    or one-time notifications on iOS and Android.
-
-
-    Requires iOS 10 and Android
-    4.4 or above.'
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 1.0.0-preview.4
-    - 1.0.0-preview.5
-    - 1.0.0-preview.7
-    - 1.0.0-preview.8
-    - 1.0.0-preview.9
-    - 1.0.0-preview.10
-    - 1.0.0-preview.13
-    - 1.0.0-preview.17
-    - 1.0.0-preview.21
-    - 1.0.0-preview.23
-    - 1.0.2
-    - 1.0.3-preview
-    - 1.0.3-preview.3
-    - 1.0.3-preview.4
-    - 1.0.3-preview.5
-    - 1.0.3-preview.6
-    - 1.0.3
-    - 1.0.4-preview.1
-    - 1.0.4-preview.2
-    - 1.0.4-preview.3
-    - 1.0.4-preview.4
-    - 1.0.4-preview.5
-    - 1.0.4-preview.6
-    - 1.0.4-preview.9
-    - 1.1.0-preview
-    - 1.2.0-preview
-    - 1.2.1-preview
-    - 1.3.0
-    - 1.3.2
-    - 1.4.1
-    - 1.4.2
-    - 1.4.3
-    - 2.0.0
-    - 2.0.1
-    compatible:
-    - 2.0.0
-    - 2.0.1
-    verified: 2.0.1
-  dependencies:
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.androidjni
-    version: 1.0.0
-  keywords:
-  - Android
-  - iOS
-  - Notifications
-  - Mobile
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 637799290320000000
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.com/Unity-Technologies/com.unity.mobile.notifications.git
-    revision: ce9c2a53ee29f96377480d6beac512b9043f6194
-    path: 
-  unityLifecycle:
-    version: 2.0.0
+    version: 1.0.1
     nextVersion: 
 - packageId: com.unity.services.core@1.3.1
   testable: 0
   isDirectDependency: 0
   version: 1.3.1
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.services.core@1.3.1
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.services.core@1.3.1
   assetPath: Packages/com.unity.services.core
   name: com.unity.services.core
   displayName: Services Core
@@ -3164,99 +3249,43 @@ m_ResolvedPackages:
   unityLifecycle:
     version: 1.3.1
     nextVersion: 
-- packageId: com.unity.subsystemregistration@1.1.0
+- packageId: com.unity.settings-manager@1.0.3
   testable: 0
   isDirectDependency: 0
-  version: 1.1.0
+  version: 1.0.3
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.subsystemregistration@1.1.0
-  assetPath: Packages/com.unity.subsystemregistration
-  name: com.unity.subsystemregistration
-  displayName: Subsystem Registration
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.settings-manager@1.0.3
+  assetPath: Packages/com.unity.settings-manager
+  name: com.unity.settings-manager
+  displayName: Settings Manager
   author:
     name: 
     email: 
     url: 
   category: 
   type: 
-  description: Provides internal registration mechanism for standalone subsystems. 
-    It allows a standalone subsystem to inform the Subsystem Manager of its existence.
+  description: A framework for making any serializable field a setting, complete
+    with a pre-built settings interface.
   status: 4
   errors: []
   versions:
     all:
-    - 1.1.0
-    compatible:
-    - 1.1.0
-    verified: 1.1.0
-  dependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  resolvedDependencies:
-  - name: com.unity.modules.subsystems
-    version: 1.0.0
-  - name: com.unity.modules.jsonserialize
-    version: 1.0.0
-  keywords:
-  - subsystem
-  - registration
-  - internal
-  registry:
-    id: main
-    name: 
-    url: https://packages.unity.com
-    scopes: []
-    isDefault: 1
-    capabilities: 7
-  hideInEditor: 1
-  isAssetStorePackage: 0
-  datePublishedTicks: 0
-  documentationUrl: 
-  hasRepository: 1
-  repository:
-    type: git
-    url: https://github.cds.internal.unity3d.com/unity/com.unity.subsystemregistration.git
-    revision: 72584ba5248fbe79e560e795ad819f876954fceb
-    path: 
-  unityLifecycle:
-    version: 1.1.0
-    nextVersion: 
-- packageId: com.unity.profiling.core@1.0.2
-  testable: 0
-  isDirectDependency: 0
-  version: 1.0.2
-  source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.profiling.core@1.0.2
-  assetPath: Packages/com.unity.profiling.core
-  name: com.unity.profiling.core
-  displayName: Unity Profiling Core API
-  author:
-    name: 
-    email: 
-    url: 
-  category: 
-  type: 
-  description: The Unity Profiling Core package provides an API for code instrumentation
-    markup, and for profiling statistic collection.
-  status: 4
-  errors: []
-  versions:
-    all:
-    - 0.1.0-preview.1
-    - 0.2.0-preview.1
-    - 0.2.1-preview.1
-    - 1.0.0-pre.1
+    - 0.1.0-preview.4
+    - 0.1.0-preview.8
     - 1.0.0
+    - 1.0.1
     - 1.0.2
+    - 1.0.3
+    - 2.0.0
+    - 2.0.1
     compatible:
-    - 1.0.2
-    verified: 1.0.2
+    - 1.0.3
+    - 2.0.0
+    - 2.0.1
+    verified: 1.0.3
   dependencies: []
   resolvedDependencies: []
-  keywords:
-  - profiler
-  - profiling
-  - api
+  keywords: []
   registry:
     id: main
     name: 
@@ -3266,23 +3295,23 @@ m_ResolvedPackages:
     capabilities: 7
   hideInEditor: 1
   isAssetStorePackage: 0
-  datePublishedTicks: 637828752310000000
+  datePublishedTicks: 637300096300000000
   documentationUrl: 
   hasRepository: 1
   repository:
     type: git
-    url: https://github.cds.internal.unity3d.com/unity/profiler.git
-    revision: 2189ba14439d76a4083f59fae87163b4bdfd49c2
+    url: git+https://github.com/Unity-Technologies/com.unity.settings-manager.git
+    revision: 473664ccba1496294b741cf169740a5d54b3d0b6
     path: 
   unityLifecycle:
-    version: 1.0.2
+    version: 1.0.3
     nextVersion: 
 - packageId: com.unity.nuget.newtonsoft-json@3.0.2
   testable: 0
   isDirectDependency: 0
   version: 3.0.2
   source: 1
-  resolvedPath: /Users/prateek/Desktop/Unity/first-unity-game/Library/PackageCache/com.unity.nuget.newtonsoft-json@3.0.2
+  resolvedPath: C:\Unity-Games\DemoGame\Library\PackageCache\com.unity.nuget.newtonsoft-json@3.0.2
   assetPath: Packages/com.unity.nuget.newtonsoft-json
   name: com.unity.nuget.newtonsoft-json
   displayName: Newtonsoft Json
